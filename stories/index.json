@@ -1,1 +1,12 @@
-{"stories":[{"title":"こうえんで あそんだよ（動作確認用）","file":"story001.json"}]}
+{
+  "stories": [
+    {
+      "title": "こうえんで あそんだよ（動作確認用）",
+      "file": "story001.json"
+    },
+    {
+      "title": "じどう車くらべ（10ページ）",
+      "file": "story002.json"
+    }
+  ]
+}
